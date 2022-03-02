@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec Dublin 2022
+title: Global AppSec APAC 2022
 layout: event-x
 
 ---
