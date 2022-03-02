@@ -8,6 +8,7 @@ logo_url: https://owasp.org/
 venue: Virtual On-Line Event
 location: Virtual On-line Event
 background: APAC_Banner_1200x675.jpeg
+background-style: linear-gradient(#000 90%, #fff);
 #banner-style: fixed
 bigheader: true
 bodycolor: fff
