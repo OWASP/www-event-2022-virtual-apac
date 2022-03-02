@@ -10,19 +10,19 @@
       #url : /trainings/
     #- title: Agenda
       #url : /schedule/
-    - title: Call for Papers - Closed
-      u#rl : https://owasp.submittable.com/submit/213362/2022-virtual-global-appsec-eu-cfp
-    - title: Call for Trainers - Closed
-      #url : https://owasp.submittable.com/submit/213361/2022-virtual-global-appsec-eu-cft
+    - title: Call for Papers - Opening in early April
+      url: 
+    - title: Call for Trainers - Opening in early April
+      url: 
 - title: EXHIBIT & SPONSORSHIP OPPORTUNITIES
   items:
     - title: Sponsorship
-      url: /assets/files/Virtual_AppSec_EU_2022_Sponsorship_Opportunities.pdf
+      url: 
 - title: ABOUT
   #url: /about/
   items:
-    - title: CfT/CfP Reviewers
-      url  : /reviewers/
+    #- title: CfT/CfP Reviewers
+      #url  : /reviewers/
     #- title: Volunteer
       #url: /volunteer/
       #url  : /https://owasp.wufoo.com/forms/kcj5cel1lmygi4//
