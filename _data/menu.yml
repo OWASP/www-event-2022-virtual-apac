@@ -16,8 +16,8 @@
       #url: 
 - title: EXHIBIT & SPONSORSHIP OPPORTUNITIES
   items:
-    - title: Sponsorship - coming soon
-      #url: 
+    - title: Sponsorship 
+      url: /assets/images/OWASP2022GlobalAppSecAPACExhibitorProspect.pdf
 - title: ABOUT
   #url: /about/
   items:
