@@ -15,4 +15,16 @@ Narudom has worked on large complex projects such as Thailand’s blockchain bas
 Narudom currently helps some research for Cloud Security Alliance (CSA) as APAC Research Advisory Council Member and Co-Chair of Hybrid Cloud Security Working Group. He also has a significant contribution in OWASP Thailand Chapter.</p>"
   subject: Architecting Secure Enterprise Applications
   abstract: "Software implementation in medium and large enterprise environments requires well defined architecture especially in security requirements. Most of the time, the main scope of secure enterprise application architecture is in two layers, application infrastructure and application design. This presentation will first discover the components of secure application infrastructure to be used among enterprise applications. Then it will focus on secure application design such as threat modeling, security pattern and other architectural designs."
+- image:
+  name: Coming Soon!
+  #title:
+  #bio:
+  #subject:
+  #abstract:
+- image:
+  name: Coming Soon!
+  #title:
+  #bio:
+  #subject:
+  #abstract:  
   #style: background-repeat:no-repeat;
