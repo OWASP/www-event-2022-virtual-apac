@@ -1,6 +1,6 @@
 - image: vandana_headshot.jpeg
   name: Vandana Verma Sehgal
-  #title: President, Shostack & Associates
+  #title: 
   bio: "<p>Vandana Verma is a multi-award winning Cybersecurity leader, a Hands-on Senior Solution Architect at Snyk, Podcast host with ITSP, Diversity and Inclusion Advocate and an International speaker and influencer on a range of themes in Information Security, including Application Security, DevSecOps, Cloud Security and Security Careers. From being the Chair of the OWASP Global Board of Directors to running various groups promoting security to organising conferences to even delivering keynote addresses at several of them, she is engaged continuously and proactively in making the global application security community a better place for individuals, organizations and societies.</p>"
   #subject: "25 Years in AppSec - Looking Back, Looking Forward"
   #abstract: "25 years ago, Adam was working at a bank doing source code security reviews, and got permission to release their internal security guidelines. 15 years ago he joined the Microsoft SDL team ... hear some highlights and some lowlights from the journey, and more importantly, what can we expect over the next 25 years? Where is appsec going? What new frontiers will we get to secure? What problems will still be with us?"
