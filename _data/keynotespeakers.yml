@@ -2,12 +2,17 @@
   name: Vandana Verma Sehgal
   #title: 
   bio: "<p>Vandana Verma is a multi-award winning Cybersecurity leader, a Hands-on Senior Solution Architect at Snyk, Podcast host with ITSP, Diversity and Inclusion Advocate and an International speaker and influencer on a range of themes in Information Security, including Application Security, DevSecOps, Cloud Security and Security Careers. From being the Chair of the OWASP Global Board of Directors to running various groups promoting security to organising conferences to even delivering keynote addresses at several of them, she is engaged continuously and proactively in making the global application security community a better place for individuals, organizations and societies.</p>"
-  #subject: "25 Years in AppSec - Looking Back, Looking Forward"
-  #abstract: "25 years ago, Adam was working at a bank doing source code security reviews, and got permission to release their internal security guidelines. 15 years ago he joined the Microsoft SDL team ... hear some highlights and some lowlights from the journey, and more importantly, what can we expect over the next 25 years? Where is appsec going? What new frontiers will we get to secure? What problems will still be with us?"
-#- image: ChloeMessdaghi.jpg
-  #name: Chloé Messdaghi
-  #title: Co-Founder, Stand Out in Tech
-  #bio: "<p>Chloé Messdaghi is an award-winning changemaker who is innovating tech and information security sectors to meet today and future demands by providing solutions that empower organizations, products, and people to stand out from the crowd. She is an international keynote speaker at major information security and tech conferences and events, and serves as a trusted source to reporters and editors, such as Forbes and Business Insider. Additionally, she is one of the Business Insider’s 50 Power Players. Outside of her work, she is the co-founder of Hacking is NOT a Crime and We Open Tech.</p>"
-  #subject: We Deserve Rights 
-  #abstract: "Hackers have been mislabeled and treated as criminals due to socially constructed beliefs that have been pushed out by the public. In return, we face prosecution when doing our job and trying to keep the world safe from attackers. Current legislation has destroyed many lives of hackers who did not exploit and stayed within scope. In return, 1 out of 4 hackers don't submit vulnerabilities due to the ongoing fear of prosecution. This talk dives into the socially constructed beliefs that the world has towards hackers and how increasing public awareness is needed to change their mindset to update out-of-date legislation."
+  #subject: 
+  #abstract: 
+- image: NarudomRoongsiriwong.jpg
+  name: Narudom Roongsiriwong
+  #title: 
+  bio: "<p>Narudom Roongsiriwong,
+SVP, Head of Digital Architecture,
+Bank of Ayudhya PCL.
+Narudom Roongsiriwong has been an information security professional for over twenty years with solid technical experience in architecture, data analytics, application development and cloud computing.
+Narudom has worked on large complex projects such as Thailand’s blockchain based National Digital ID Infrastructure. He was the technical team lead and still holds the Security and Risk Committee position at National Digital ID Co.,Ltd. He was a pioneer in setting up Thailand Banking Sector CERT.
+Narudom currently helps some research for Cloud Security Alliance (CSA) as APAC Research Advisory Council Member and Co-Chair of Hybrid Cloud Security Working Group. He also has a significant contribution in OWASP Thailand Chapter.</p>"
+  subject: Architecting Secure Enterprise Applications
+  abstract: "Software implementation in medium and large enterprise environments requires well defined architecture especially in security requirements. Most of the time, the main scope of secure enterprise application architecture is in two layers, application infrastructure and application design. This presentation will first discover the components of secure application infrastructure to be used among enterprise applications. Then it will focus on secure application design such as threat modeling, security pattern and other architectural designs."
   #style: background-repeat:no-repeat;
