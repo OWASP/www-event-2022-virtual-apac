@@ -15,10 +15,10 @@ Narudom has worked on large complex projects such as Thailand’s blockchain bas
 Narudom currently helps some research for Cloud Security Alliance (CSA) as APAC Research Advisory Council Member and Co-Chair of Hybrid Cloud Security Working Group. He also has a significant contribution in OWASP Thailand Chapter.</p>"
   subject: Architecting Secure Enterprise Applications
   abstract: "Software implementation in medium and large enterprise environments requires well defined architecture especially in security requirements. Most of the time, the main scope of secure enterprise application architecture is in two layers, application infrastructure and application design. This presentation will first discover the components of secure application infrastructure to be used among enterprise applications. Then it will focus on secure application design such as threat modeling, security pattern and other architectural designs."
-- image:
-  name: Coming Soon!
+- image: JohnEllis.jpeg
+  name: John Ellis
   #title:
-  #bio:
+  bio: As the CISO for Bupa Asia Pacific, I have the privilege of leading a team of talented people to secure the data and systems of Bupa, its customers, and employees to become the most trusted and digitally integrated Health Services organisation in the Asia Pacific. Throughout my career of more than 26 years, I have been helping organisations achieve their security objectives by designing, implementing, and operating various information security and technology risk management projects. This broad exposure has provided me with an in-depth understanding of security, strategy, risk, and business. I was fortunate to have lived in Asia for 14 years, where I developed a keen interest in how 'cyberspace' plays an increasingly important role in geopolitics and foreign policy. This interest led me to study and achieve my Masters of Cybersecurity, Strategy, and Diplomacy from the University of New South Wales at the Australian Defence Force Academy (UNSW Canberra). Diversity and inclusion are powerful tools in solving our complex security challenges. As a father of three daughters, I want to play a leading role in shaping the world where we are defined by our acts and not the colour of our skin, gender, or nationality.
   #subject:
   #abstract:
 - image:
