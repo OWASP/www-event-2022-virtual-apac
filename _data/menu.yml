@@ -10,13 +10,13 @@
       #url : /trainings/
     #- title: Agenda
       #url : /schedule/
-    - title: Call for Papers - Opening in early April
-      #url: 
-    - title: Call for Trainers - Opening in early April
-      #url: 
+    - title: Call for Papers 
+      url: https://owasp.submittable.com/submit/223246/2022-virtual-global-appsec-apac-cfp
+    - title: Call for Trainers 
+      url: https://owasp.submittable.com/submit/221206/2022-virtual-global-appsec-apac-cft
     - title: Call for Moderators
       url: https://owasp.wufoo.com/forms/kz90iiz08a0f9y/
-    - title: Call for Moderators who speak Japanese
+    - title: Call for Moderators who speak/understand Japanese
       url: https://owasp.wufoo.com/forms/zhehkc40n7ut2l/
 - title: EXHIBITOR PROSPECT
   items:
